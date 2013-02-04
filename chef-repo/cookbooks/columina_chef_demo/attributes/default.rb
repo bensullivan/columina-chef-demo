@@ -1,0 +1,1 @@
+default["description"] = "Sunsuper demo node"

@@ -1,3 +1,3 @@
 name "int"
 description "The integration environment"
-default_attributes "description" => "Sunsuper INT"
+default_attributes "env_label" => "Sunsuper INT"
