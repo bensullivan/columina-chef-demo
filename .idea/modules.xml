@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/chef-sandpit.iml" filepath="$PROJECT_DIR$/.idea/chef-sandpit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/columina-chef-demo.iml" filepath="$PROJECT_DIR$/.idea/columina-chef-demo.iml" />
     </modules>
   </component>
 </project>
