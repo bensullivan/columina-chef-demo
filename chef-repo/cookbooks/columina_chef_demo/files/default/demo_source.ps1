@@ -1,0 +1,1 @@
+Get-Content c:\temp\config.txt
