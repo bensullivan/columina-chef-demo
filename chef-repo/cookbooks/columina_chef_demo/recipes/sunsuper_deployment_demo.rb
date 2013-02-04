@@ -17,6 +17,7 @@ template "C:/temp/config.txt" do
   })
 end
 
+# You could do this in the Windows VM as well...
 windows_batch "Run the demo app" do
   code <<-EOH
   powershell -executionpolicy bypass -File C:/temp/demo_source.ps1

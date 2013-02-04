@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/windows_resource_demo.rb" />
+    <bookmark url="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/sunsuper_deployment_demo.rb" />
   </component>
   <component name="BuildServerSettings">
     <option name="LOGIN" value="" />
@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3950ef7-d9c3-48a7-b9a8-40751a99fb92" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/windows_resource_demo.rb" afterPath="$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/sunsuper_deployment_demo.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/templates/default/config.txt.erb" afterPath="$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/templates/default/config.txt.erb" />
     </list>
     <ignored path="columina-chef-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,46 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="windows_resource_demo.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/windows_resource_demo.rb">
+      <file leaf-file-name="sunsuper_deployment_demo.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/sunsuper_deployment_demo.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="51" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.txt.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/templates/default/config.txt.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="58" selection-start="58" selection-end="58" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/attributes/default.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="development.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chef-repo/environments/development.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="110" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="integration.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chef-repo/environments/integration.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="5" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+            <state line="19" column="28" selection-start="492" selection-end="492" vertical-scroll-proportion="0.39256197">
               <folding />
             </state>
           </provider>
@@ -112,6 +76,7 @@
         <option value="$PROJECT_DIR$/chef-repo/environments/development.rb" />
         <option value="$PROJECT_DIR$/chef-repo/environments/integration.rb" />
         <option value="$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/templates/default/config.txt.erb" />
+        <option value="$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/sunsuper_deployment_demo.rb" />
       </list>
     </option>
   </component>
@@ -289,6 +254,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="recipes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="columina-chef-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="columina-chef-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chef-repo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cookbooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="columina_chef_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="attributes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -414,7 +405,11 @@
       <created>1360020786546</created>
       <updated>1360020786546</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Removed dupe">
+      <created>1360021141341</created>
+      <updated>1360021141341</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -477,7 +472,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created demo for Sunsuper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed dupe" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -494,6 +489,7 @@
     <MESSAGE value="Renamed demo cookbook" />
     <MESSAGE value="Added powershell cookbook dependency" />
     <MESSAGE value="Created demo for Sunsuper" />
+    <MESSAGE value="Removed dupe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -513,7 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/windows_resource_demo.rb">
+    <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/sunsuper_deployment_demo.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="23" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
           <folding />
@@ -548,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/windows_resource_demo.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="51" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chef-repo/environments/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -569,9 +558,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chef-repo/environments/integration.rb">
+    <entry file="file://$PROJECT_DIR$/chef-repo/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+        <state line="0" column="110" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -590,9 +579,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chef-repo/environments/development.rb">
+    <entry file="file://$PROJECT_DIR$/chef-repo/environments/integration.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="110" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+        <state line="2" column="5" selection-start="58" selection-end="58" vertical-scroll-proportion="0.041322313">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chef-repo/cookbooks/columina_chef_demo/recipes/sunsuper_deployment_demo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="28" selection-start="492" selection-end="492" vertical-scroll-proportion="0.39256197">
           <folding />
         </state>
       </provider>
